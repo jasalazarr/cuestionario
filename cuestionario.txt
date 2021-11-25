@@ -4,13 +4,17 @@ Una red de computadoras conectadas que comparten información
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 3
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-4
+4 La dirección IP es una representación numérica del punto de Internet donde está conectado un dispositivo. El sistema de nombres de dominio es el directorio telefónico de Internet. Las personas acceden a la información en línea a través de nombres de dominio
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-5
+5 Spotify funciona por medio de streaming,el cual es un tipo de tecnología multimedia que envía contenidos de vídeo y audio a su dispositivo conectado a Internet. una sola fuente que envía contenido a un único destino a través de una conexión digital. Esta misma información puede ser enviada a otros destinos, incluso si su petición se ha realizado en otro momento. 
 Describe los protocolos que existen en internet, en específico HTTP y HTML
-6
+6 El http  un protocolo de la capa de aplicación para la transmisión de documentos hipermedia, como HTML. Es un protocolo sin estado, por lo que el servidor no guarda ningún dato entre dos peticiones. html es es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-7
+7 Las llaves públicas es una técnica de encriptación en la que se utilizan claves distintas para cifrado y descifrado. Esto permite que las computadoras puedan comunicarse de manera segura a través de internet, y que nadie más que el que envía el mensaje y lo recibe pueda tener acceso a la información que estamos protegiendo con esto,
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+Las técnicas de encriptación de llaves públicas son muy útiles a la hora de proteger nuestros archivos, ya que la llave para acceder a esa información es distinta a la que utiliza quien la manda. También podemos tomar otras precauciones como no proporcionar nuestros datos en lugares dudosos donde no tengamos la garantía de que nuestra información esté segura.
 8
 ¿Cómo funciona la búsqueda de google?
+Se divide en rastreo: Google explora la web con programas automatizados, que buscan páginas nuevas.
+Indexación: Google visita las páginas que detectó durante el rastreo y obtiene información básica de ellas.
+Devolución de resultados: Se toman distintos factores personales para determinar cuáles resultados son los mejores.
